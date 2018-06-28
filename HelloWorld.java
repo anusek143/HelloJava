@@ -1,7 +1,7 @@
 public class HelloWorld{
 
 public static void main(String args[]){
-System.out.println("Hello guys hello Jenkins");
+System.out.println("Hello guys hello Jenkins safe zone");
 
 }
 }
